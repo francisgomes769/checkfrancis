@@ -6,6 +6,6 @@ void main(){
 	printf("Enter numbers");
 	scanf("%d %d", &num1,&num2);
 	sum = num1 + num2;
-	printf("Addition is %d ", sum);
+	printf("Addition is %d Itna bhi nahi aata kya", sum);
 	
 }
