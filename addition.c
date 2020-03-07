@@ -8,4 +8,5 @@ void main(){
 	sum = num1 + num2;
 	printf("Addition is %d Itna bhi nahi aata kya", sum);
 	printf("Multiplication is %d", num1*num2); 
+	printf("OKay Done");
 }
